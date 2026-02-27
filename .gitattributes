@@ -1,0 +1,12 @@
+# Normalize all text files to LF in the repository
+* text=auto eol=lf
+
+# Force binary files to not be modified
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.jar binary
+*.class binary
+*.keystore binary
