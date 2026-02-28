@@ -25,3 +25,11 @@ replay_pid*
 
 # Kotlin Gradle plugin data, see https://kotlinlang.org/docs/whatsnew20.html#new-directory-for-kotlin-data-in-gradle-projects
 .kotlin/
+
+# IntelliJ IDEA caches (local/personal, not project-shared)
+.idea/caches/
+.idea/workspace.xml
+*.iml
+
+# Claude Code local settings (personal, not project-shared)
+.claude/settings.local.json
